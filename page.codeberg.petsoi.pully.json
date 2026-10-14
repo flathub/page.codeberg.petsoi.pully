@@ -24,8 +24,8 @@
                 {
                     "type": "git",
                     "url": "https://codeberg.org/petsoi/pully.git",
-                    "tag": "v0.2.1",
-                    "commit": "17b59f576b35342098b09d8db3dfc35eedfa4506"
+                    "tag": "v0.2.2",
+                    "commit": "5c8df2d6478963e93e759bd9315c96aa25bf41c8"
                 },
                 "cargo-sources.json",
                 {
